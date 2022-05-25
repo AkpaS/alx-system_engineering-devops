@@ -1,2 +1,2 @@
-This is not an empty file
-- Typing this so I don't lose my files
+This file shows the absolute path name of the current working directory
+- This can also be done using <pwd/>
